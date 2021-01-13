@@ -9,3 +9,8 @@ https://rotprof.lncc.br/
 https://doi.org/10.1002/prot.26003
 
 http://mobiosd-hub.com/starpep/
+
+3 - stk: A python toolkit for supramolecular assembly
+https://doi.org/10.1002/jcc.25377
+
+https://github.com/supramolecular-toolkit/stk
