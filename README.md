@@ -14,3 +14,8 @@ http://mobiosd-hub.com/starpep/
 https://doi.org/10.1002/jcc.25377
 
 https://github.com/supramolecular-toolkit/stk
+
+4 - Mordred: a molecular descriptor calculator
+https://doi.org/10.1186/s13321-018-0258-y
+
+https://github.com/mordred-descriptor
