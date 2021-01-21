@@ -19,3 +19,8 @@ https://github.com/supramolecular-toolkit/stk
 https://doi.org/10.1186/s13321-018-0258-y
 
 https://github.com/mordred-descriptor
+
+5 - PyXtal_FF: a python library for automated force field generation
+https://doi.org/10.1088/2632-2153/abc940
+
+https://pyxtal-ff.readthedocs.io
