@@ -8,7 +8,7 @@ https://rotprof.lncc.br/
 2 - PeptiDesCalculator: Software for computation of peptide descriptors. Definition, implementation and case studies for 9 bioactivity endpoints
 https://doi.org/10.1002/prot.26003
 
-http://mobiosd-hub.com/starpep/
+http://mobiosd-hubrxtx.tech/open-source.com/starpep/
 
 3 - stk: A python toolkit for supramolecular assembly
 https://doi.org/10.1002/jcc.25377
@@ -24,3 +24,12 @@ https://github.com/mordred-descriptor
 https://doi.org/10.1088/2632-2153/abc940
 
 https://pyxtal-ff.readthedocs.io
+
+6 - RxDock - https://www.rxdock.org/
+https://www.rxtx.tech/open-source
+
+7 - TopSuite: A deep-learning meta-server for computational structural biology
+https://cpclab.uni-duesseldorf.de/topsuite/
+
+8 - Durrant-Lab Software
+https://durrantlab.pitt.edu/durrant-lab-software/
