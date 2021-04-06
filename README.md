@@ -33,3 +33,6 @@ https://cpclab.uni-duesseldorf.de/topsuite/
 
 8 - Durrant-Lab Software
 https://durrantlab.pitt.edu/durrant-lab-software/
+
+9 - AMPGAN v2: Machine Learning-Guided Design of Antimicrobial Peptides
+https://doi.org/10.1021/acs.jcim.0c01441
