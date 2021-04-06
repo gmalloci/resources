@@ -36,3 +36,12 @@ https://durrantlab.pitt.edu/durrant-lab-software/
 
 9 - AMPGAN v2: Machine Learning-Guided Design of Antimicrobial Peptides
 https://doi.org/10.1021/acs.jcim.0c01441
+
+10 - Membrane Barrels Are Taller, Fatter, Inside-Out Soluble Barrels
+https://doi.org/10.1021/acs.jpcb.1c00878
+
+11 - CHARMM-GUI Polymer Builder for Modeling and Simulation of Synthetic Polymers
+https://doi.org/10.1021/acs.jctc.1c00169
+
+12 - From NWChem to NWChemEx: Evolving with the Computational Chemistry Landscape
+https://doi.org/10.1021/acs.chemrev.0c00998
