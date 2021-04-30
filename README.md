@@ -43,5 +43,8 @@ https://doi.org/10.1021/acs.jpcb.1c00878
 11 - CHARMM-GUI Polymer Builder for Modeling and Simulation of Synthetic Polymers
 https://doi.org/10.1021/acs.jctc.1c00169
 
-12 - From NWChem to NWChemEx: Evolving with the Computational Chemistry Landscape
+12 - From NWChem to NWChemEx: Evolving with the Computational Chemistry Landscapehttps
 https://doi.org/10.1021/acs.chemrev.0c00998
+
+13 - g_elpot: A Tool for Quantifying Biomolecular Electrostatics from Molecular Dynamics Trajectories
+https://pubs.acs.org/doi/10.1021/acs.jctc.0c01246
