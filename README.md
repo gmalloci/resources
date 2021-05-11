@@ -61,3 +61,7 @@ https://doi.org/10.1021/acs.chemrev.0c00998
 13 - g_elpot: A Tool for Quantifying Biomolecular Electrostatics from Molecular Dynamics Trajectories 
 
 https://pubs.acs.org/doi/10.1021/acs.jctc.0c01246
+
+14 - GalaxyWater-wKGB: Prediction of Water Positions on Protein Structure Using wKGB Statistical Potential
+
+https://pubs.acs.org/doi/10.1021/acs.jcim.0c01434
