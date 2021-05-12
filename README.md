@@ -65,3 +65,9 @@ https://pubs.acs.org/doi/10.1021/acs.jctc.0c01246
 14 - GalaxyWater-wKGB: Prediction of Water Positions on Protein Structure Using wKGB Statistical Potential
 
 https://pubs.acs.org/doi/10.1021/acs.jcim.0c01434
+
+15 - DENOPTIM https://github.com/denoptim-project/DENOPTIM
+
+16 - SELFIES https://github.com/aspuru-guzik-group/selfies
+
+17 - TECHOPENCADD https://github.com/volkamerlab/TeachOpenCADD
