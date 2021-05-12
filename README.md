@@ -71,3 +71,5 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.0c01434
 16 - SELFIES https://github.com/aspuru-guzik-group/selfies
 
 17 - TECHOPENCADD https://github.com/volkamerlab/TeachOpenCADD
+
+18 - ENSEMBLER https://github.com/rinikerlab/Ensembler
