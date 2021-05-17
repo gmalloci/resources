@@ -73,3 +73,6 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.0c01434
 17 - TECHOPENCADD https://github.com/volkamerlab/TeachOpenCADD
 
 18 - ENSEMBLER https://github.com/rinikerlab/Ensembler
+
+19 - DeepBSP—a Machine Learning Method for Accurate Prediction of Protein–Ligand Docking Structures - https://pubs.acs.org/doi/10.1021/acs.jcim.1c00334
+https://github.com/BaoJingxiao/DeepBSP
