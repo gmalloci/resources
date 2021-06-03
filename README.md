@@ -79,3 +79,7 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.0c01434
 https://pubs.acs.org/doi/10.1021/acs.jcim.1c00334
 
 https://github.com/BaoJingxiao/DeepBSP
+
+20 - ProLint: a web-based framework for the automated data analysis and visualization of lipid–protein interactions
+
+https://www.prolint.ca/
