@@ -86,3 +86,11 @@ https://www.prolint.ca/
 
 21 - W-RESP: Well-Restrained Electrostatic Potential Derived Charges. Revisiting the Charge Derivation Model
 https://www.biorxiv.org/content/10.1101/2020.09.14.296012v1.full
+
+22 - Protein-Ligand Interaction Profiler 
+
+https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index
+
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab294/6266421
+
+
