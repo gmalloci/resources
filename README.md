@@ -93,4 +93,10 @@ https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index
 
 https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab294/6266421
 
+23 - Vina 1.2.0
 
+https://chemrxiv.org/articles/preprint/AutoDock_Vina_1_2_0_New_Docking_Methods_Expanded_Force_Field_and_Python_Bindings/14774223/1?file=28391382
+
+24 - Finding Druggable Sites in Proteins Using TACTICS
+
+https://pubs.acs.org/doi/10.1021/acs.jcim.1c00204
