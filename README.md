@@ -100,3 +100,7 @@ https://chemrxiv.org/articles/preprint/AutoDock_Vina_1_2_0_New_Docking_Methods_E
 24 - Finding Druggable Sites in Proteins Using TACTICS
 
 https://pubs.acs.org/doi/10.1021/acs.jcim.1c00204
+
+25 - Using Atomic Charges to Describe the pKa of Carboxylic Acids
+
+https://pubs.acs.org/doi/10.1021/acs.jcim.1c00059
