@@ -104,3 +104,7 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.1c00204
 25 - Using Atomic Charges to Describe the pKa of Carboxylic Acids
 
 https://pubs.acs.org/doi/10.1021/acs.jcim.1c00059
+
+26 - Efficient Quantum-Chemical Calculations of Acid Dissociation Constants from Free-Energy Relationships
+
+https://doi.org/10.1021/acs.jpca.1c03463
