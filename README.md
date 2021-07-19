@@ -111,3 +111,8 @@ https://doi.org/10.1021/acs.jpca.1c03463
 
 27 - MolGpka: A Web Server for Small Molecule pKa Prediction Using a Graph-Convolutional Neural Network
 https://xundrug.cn/molgpka
+
+28 - PASSer: prediction of allosteric sites server
+https://iopscience.iop.org/article/10.1088/2632-2153/abe6d6
+https://passer.smu.edu/
+
