@@ -126,3 +126,6 @@ https://doi.org/10.1021/acs.jcim.1c00475
 https://doi.org/10.1021/acs.jcim.1c00454
 http://probis-dock-database.insilab.org/
 
+32 - Automated Coarse-Grained Mapping Algorithm for the Martini Force Field and Benchmarks for Membrane–Water Partitioning
+https://pubs.acs.org/doi/abs/10.1021/acs.jctc.1c00322
+
