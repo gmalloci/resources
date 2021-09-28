@@ -129,3 +129,20 @@ http://probis-dock-database.insilab.org/
 32 - Automated Coarse-Grained Mapping Algorithm for the Martini Force Field and Benchmarks for Membrane–Water Partitioning
 https://pubs.acs.org/doi/abs/10.1021/acs.jctc.1c00322
 
+33 -Entropy in ligand binding
+https://pubs.acs.org/doi/10.1021/acs.jcim.0c01146
+
+34 -CHARMM-GUI for charged lipids in nanoparticles
+https://pubs.acs.org/doi/10.1021/acs.jcim.1c00770
+
+35 -Pharmacoprint
+https://pubs.acs.org/doi/10.1021/acs.jcim.1c00589
+
+36 -QSAR Modeling Based on (LIGAND!) Conformation Ensembles (di interesse forse sia per il progetto database composti, sia per il docking / virtual screening)
+https://pubs.acs.org/doi/10.1021/acs.jcim.1c00692
+
+37 -FFENCODER (di interesse per docking/VS)
+https://pubs.acs.org/doi/10.1021/acs.jctc.1c00503
+
+38 -Open Force Field v1.0.0—the Parsley Small-Molecule Force Field
+https://pubs.acs.org/doi/10.1021/acs.jctc.1c00571
