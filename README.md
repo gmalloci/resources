@@ -1,4 +1,4 @@
-# Resources
+# Miscellaneous resources
 
 1 - Rotational Profiler: A Fast, Automated, and Interactive Server to Derive Torsional Dihedral Potentials for Classical Molecular Simulations
 
