@@ -146,3 +146,7 @@ https://pubs.acs.org/doi/10.1021/acs.jctc.1c00503
 
 38 -Open Force Field v1.0.0—the Parsley Small-Molecule Force Field
 https://pubs.acs.org/doi/10.1021/acs.jctc.1c00571
+
+39 - eMap: A Web Application for Identifying and Visualizing Electron or Hole Hopping Pathways in Proteins
+https://doi.org/10.1021/acs.jpcb.9b04816
+https://github.com/gayverjr/pyemap
