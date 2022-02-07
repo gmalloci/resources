@@ -150,3 +150,6 @@ https://pubs.acs.org/doi/10.1021/acs.jctc.1c00571
 39 - eMap: A Web Application for Identifying and Visualizing Electron or Hole Hopping Pathways in Proteins
 https://doi.org/10.1021/acs.jpcb.9b04816
 https://github.com/gayverjr/pyemap
+
+40 - TorsionNet: A Deep Neural Network to Rapidly Predict Small-Molecule Torsional Energy Profiles with the Accuracy of Quantum Mechanics
+https://doi.org/10.1021/acs.jcim.1c01346
