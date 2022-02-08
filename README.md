@@ -153,3 +153,6 @@ https://github.com/gayverjr/pyemap
 
 40 - TorsionNet: A Deep Neural Network to Rapidly Predict Small-Molecule Torsional Energy Profiles with the Accuracy of Quantum Mechanics
 https://doi.org/10.1021/acs.jcim.1c01346
+
+41 - BINANA 2: Characterizing Receptor/Ligand Interactions in Python and JavaScript
+https://pubs.acs.org/doi/10.1021/acs.jcim.1c01461
