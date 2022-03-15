@@ -156,3 +156,7 @@ https://doi.org/10.1021/acs.jcim.1c01346
 
 41 - BINANA 2: Characterizing Receptor/Ligand Interactions in Python and JavaScript
 https://pubs.acs.org/doi/10.1021/acs.jcim.1c01461
+
+42 - Martini 3 Coarse-Grained Force Field: Small Molecules
+https://doi.org/10.1002/adts.202100391
+https://onlinelibrary.wiley.com/doi/10.1002/adts.202100391
