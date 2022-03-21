@@ -160,3 +160,10 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.1c01461
 42 - Martini 3 Coarse-Grained Force Field: Small Molecules
 https://doi.org/10.1002/adts.202100391
 https://onlinelibrary.wiley.com/doi/10.1002/adts.202100391
+
+-Role of AcrA in vetting substrates: https://www.nature.com/articles/s41598-022-08903-9
+-Protein pKa Prediction: https://doi.org/10.1021/acs.jctc.1c01257
+-Design of Druglike Analogues: https://doi.org/10.1021/acs.jcim.2c00205
+-Multitemplate Homology Flexible Docking Algorithm: https://doi.org/10.1021/acs.jcim.1c01176
+-Exploring the Effect of Enhanced Sampling on Protein Stability Prediction: https://doi.org/10.1021/acs.jctc.1c01012
+-Ligand–Protein Relative Binding Free Energy Calculations: https://doi.org/10.1021/acs.jctc.1c01288
