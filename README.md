@@ -172,3 +172,6 @@ https://doi.org/10.1021/acs.jcim.1c01269
 -Multitemplate Homology Flexible Docking Algorithm: https://doi.org/10.1021/acs.jcim.1c01176
 -Exploring the Effect of Enhanced Sampling on Protein Stability Prediction: https://doi.org/10.1021/acs.jctc.1c01012
 -Ligand–Protein Relative Binding Free Energy Calculations: https://doi.org/10.1021/acs.jctc.1c01288
+
+45 - SINAPs: A Software Tool for Analysis and Visualization of Interaction Networks of Molecular Dynamics Simulations
+https://doi.org/10.1021/acs.jcim.1c00854
