@@ -175,3 +175,6 @@ https://doi.org/10.1021/acs.jcim.1c01269
 
 45 - SINAPs: A Software Tool for Analysis and Visualization of Interaction Networks of Molecular Dynamics Simulations
 https://doi.org/10.1021/acs.jcim.1c00854
+
+46 - GalaxyWater-CNN: Prediction of Water Positions on the Protein Structure by a 3D-Convolutional Neural Network
+https://doi.org/10.1021/acs.jcim.2c00306
