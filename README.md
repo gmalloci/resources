@@ -178,3 +178,9 @@ https://doi.org/10.1021/acs.jcim.1c00854
 
 46 - GalaxyWater-CNN: Prediction of Water Positions on the Protein Structure by a 3D-Convolutional Neural Network
 https://doi.org/10.1021/acs.jcim.2c00306
+
+47 - DIFF-DOCK
+https://github.com/gcorso/DiffDock
+
+48 - Open Force Field BespokeFit: Automating Bespoke Torsion Parametrization at Scale
+https://doi.org/10.1021/acs.jcim.2c01153
