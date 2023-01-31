@@ -184,3 +184,5 @@ https://github.com/gcorso/DiffDock
 
 48 - Open Force Field BespokeFit: Automating Bespoke Torsion Parametrization at Scale
 https://doi.org/10.1021/acs.jcim.2c01153
+
+49 - Release of the MiMiC framework - https://mimic-project.org/en/latest/
